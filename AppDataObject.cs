@@ -39,9 +39,9 @@ namespace Timecard
             DefaultsAction();
         }
 
-        protected abstract  void SaveAction();
-        protected abstract  void LoadAction();
-        public abstract  void DefaultsAction();
+        protected abstract void SaveAction();
+        protected abstract void LoadAction();
+        public abstract void DefaultsAction();
 
     }
 }

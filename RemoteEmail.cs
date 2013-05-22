@@ -93,7 +93,7 @@ namespace Timecard
                 }
                 EmailRequestCompleted(this, new EmailCompletedEventArgs(true, null));
             }
-            catch (Exception ex)
+            catch
             {
                 EmailRequestCompleted(this, new EmailCompletedEventArgs(false, "The Email Request Failed"));
             }

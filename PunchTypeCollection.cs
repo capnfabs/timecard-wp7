@@ -30,7 +30,7 @@ namespace Timecard
             IsolatedStorageHelper.ObjToFile(this, typeof(PunchTypeCollection), this.Path);
         }
 
-        protected override AppDataObject LoadAction()
+        protected override void LoadAction()
         {
             return (PunchTypeCollection)IsolatedStorageHelper.FileToObj(typeof(PunchTypeCollection), this.Path);
         }
