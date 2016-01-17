@@ -9,7 +9,7 @@ I polished it up a bit over the next couple of weeks, and put it on the Windows 
 
 ## Links
 
-- [Article outlining some of the design decisions](http://capnfabs.net/design/project/software/2011/12/13/designing-timecard-a-windows-phone-7-app.html)
+- [Article outlining some of the design decisions](http://capnfabs.net/blog/2011/12/13/designing-timecard-a-windows-phone-7-app/)
 - [Free Download, Windows Phone Marketplace](http://www.windowsphone.com/en-au/store/app/timecard/5dd0caff-e9e0-4f36-865c-e5d32acee898)
 
 ## License
