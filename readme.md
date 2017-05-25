@@ -1,4 +1,5 @@
-#Timecard
+# Timecard
+
 *A time-tracking app for Windows Phone 7*
 
 ## What?
